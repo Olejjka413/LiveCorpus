@@ -584,8 +584,8 @@
 584	полная	полный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@rvm1978m-words#@rvm1978m#233.17#233.588
 585	пачка	пачка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@rvm1978m-words#@rvm1978m#233.588#234.006
 586	там	там	ADV	_	Degree=Pos	_	_	_	@rvm1978m-words#@rvm1978m#234.006#234.424
-587	атеизм	атеизм	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	@rvm1978m-words#@rvm1978m#234.424#234.842
-588	агностицизм	агностицизм	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	@rvm1978m-words#@rvm1978m#234.842#235.26
+587	атеизм	атеизм	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@rvm1978m-words#@rvm1978m#234.424#234.842
+588	агностицизм	агностицизм	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	@rvm1978m-words#@rvm1978m#234.842#235.26
 589	и	и	CCONJ	_	_	_	_	_	@rvm1978m-words#@rvm1978m#235.26#235.678
 590	ещё	еще	ADV	_	Degree=Pos	_	_	_	@rvm1978m-words#@rvm1978m#235.678#236.096
 591	какой-нибудь	какой-нибудь	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	@rvm1978m-words#@rvm1978m#236.096#236.514
@@ -736,7 +736,7 @@
 736	да	да	CCONJ	_	_	_	_	_	@rvm1978m-words#@rvm1978m#321.349#321.722
 737	и	и	PART	_	_	_	_	_	@rvm1978m-words#@rvm1978m#321.722#322.095
 738	это	этот	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@rvm1978m-words#@rvm1978m#322.095#322.468
-739	мм	миллиметр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@rvm1978m-words#@rvm1978m#322.468#322.841
+739	мм	мм	INTJ	_	_	_	_	_	@rvm1978m-words#@rvm1978m#322.468#322.841
 740	/	/	PUNCT	_	_	_	_	_	@rvm1978m-words#@rvm1978m#322.841#323.214
 741	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	@rvm1978m-words#@rvm1978m#323.214#323.587
 742	составляющая	составляющая	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@rvm1978m-words#@rvm1978m#323.587#323.96
@@ -1027,6 +1027,6 @@
 1027	поясните	пояснить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	@nn1982m-words#@nn1982m#377.894#378.197
 1028	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	_	_	_	@nn1982m-words#@nn1982m#378.197#378.5
 1029	/	/	PUNCT	_	_	_	_	_	@nn1982m-words#@nn1982m#378.5#378.803
-1030	роман	роман	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@nn1982m-words#@nn1982m#378.803#379.106
+1030	роман	роман	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@nn1982m-words#@nn1982m#378.803#379.106
 1031	?	?	PUNCT	_	_	_	_	_	@nn1982m-words#@nn1982m#379.106#379.42
 

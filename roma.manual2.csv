@@ -87,7 +87,7 @@
 87	у	у	ADP	_	_	_	_	_	@ovm1978f-words#@ovm1978f#31.033#31.36
 88	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	@ovm1978f-words#@ovm1978f#31.36#31.687
 89	практически	практически	ADV	_	Degree=Pos	_	_	_	@ovm1978f-words#@ovm1978f#31.687#32.014
-90	час	час	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@ovm1978f-words#@ovm1978f#32.014#32.341
+90	час	час	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@ovm1978f-words#@ovm1978f#32.014#32.341
 91	целый	целый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@ovm1978f-words#@ovm1978f#32.341#32.668
 92	будем	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@ovm1978f-words#@ovm1978f#32.668#32.995
 93	слушать	слушать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	@ovm1978f-words#@ovm1978f#32.995#33.322
@@ -138,7 +138,7 @@
 138	/	/	PUNCT	_	_	_	_	_	@ovm1978f-words#@ovm1978f#50.462#50.87
 139	символику	символика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@ovm1978f-words#@ovm1978f#50.87#51.278
 140	индийских	индийский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	@ovm1978f-words#@ovm1978f#51.278#51.686
-141	сект	сект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	@ovm1978f-words#@ovm1978f#51.686#52.094
+141	сект	секта	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	@ovm1978f-words#@ovm1978f#51.686#52.094
 142	/	/	PUNCT	_	_	_	_	_	@ovm1978f-words#@ovm1978f#52.094#52.502
 143	можно	можно	ADV	_	Degree=Pos	_	_	_	@ovm1978f-words#@ovm1978f#52.502#52.91
 144	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	@ovm1978f-words#@ovm1978f#52.91#53.318
@@ -146,7 +146,7 @@
 146	еврейского	еврейский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@ovm1978f-words#@ovm1978f#53.726#54.134
 147	мистицизма	мистицизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@ovm1978f-words#@ovm1978f#54.134#54.542
 148	ну	ну	PART	_	_	_	_	_	@ovm1978f-words#@ovm1978f#54.542#54.95
-149	каббала	каббать	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@ovm1978f-words#@ovm1978f#54.95#55.358
+149	каббала	каббала	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@ovm1978f-words#@ovm1978f#54.95#55.358
 150	там	там	ADV	_	Degree=Pos	_	_	_	@ovm1978f-words#@ovm1978f#55.358#55.766
 151	тоже	тоже	PART	_	_	_	_	_	@ovm1978f-words#@ovm1978f#55.766#56.174
 152	присутствует	присутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@ovm1978f-words#@ovm1978f#56.174#56.582
